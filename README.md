@@ -62,5 +62,19 @@ In progress:
 
 :link: [ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)
 
+### Recommened blogs
+- guru99.com
+- wyszkolewas.com.pl
+- testerzy.pl
+- testerka.pl
+- pwicherski.gitbook.io
+
+### Facebook groups
+- Testowanie oprogramowania
+- Tester oprogramowania - wsparcie na starcie
+- Dare IT Community
+- Programuj, dziewczyno!
+
+
 
 
