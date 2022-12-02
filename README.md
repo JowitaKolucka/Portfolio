@@ -9,7 +9,7 @@ My name is Jowita Kołucka. I am looking for a job as a software tester. My adva
 - Kurs SQL od podstaw - Udemy
 - Kurs Git dla początkujących - Udemy
 - HTML/CSS Marathon - GoIT
-In progress:
+ ##### In progress:
 - Kurs Selenium Java od podstaw - Udemy
 
 ### Books
