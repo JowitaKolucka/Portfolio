@@ -39,6 +39,15 @@ In progress:
 - Creating Test Cases
 - Bugs reporting
 
+### Soft skills
+- creativity and problem - solving
+- teamwork
+- positive attitiude
+- self-motivation
+- communication
+- empathy
+- commitment
+
 ### My LinkedIn profile
 :point_right: [LinkedIn](https://www.linkedin.com/in/jowita-ko%C5%82ucka-58208a257/)
 
