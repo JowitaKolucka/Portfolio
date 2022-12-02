@@ -24,7 +24,7 @@ In progress:
 - Xampp
 - TestLink
 - Screenpresso, Sharex
-In progress:
+##### In progress:
 - IntelliJ IDEA
 - Selenium
 - Java
