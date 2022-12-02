@@ -43,7 +43,7 @@ In progress:
 :point_right: [LinkedIn](https://www.linkedin.com/in/jowita-ko%C5%82ucka-58208a257/)
 
 ### My projects
-👉 Test cases
+👉 Test cases:
 
 🔗 [FirstExample](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)
 
@@ -52,7 +52,7 @@ In progress:
 🔗 [ThirdExampleForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
 
 
-👉 Bugs reports
+👉 Bugs reports:
 
 🔗 [FirstExample](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)
 
