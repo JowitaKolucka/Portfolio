@@ -9,13 +9,13 @@ aspire to automate tests.
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
 - Dare IT Portfolio Challenge: QA Manual Testing
-- Learn & Chat about Human Machine Interface: Testing - Spyrosoft Synergy
+- Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
 - Praktyczny kurs testowania oprogramowania - Udemy 
-- Kurs SQL od podstaw - Udemy
-- Kurs Git dla początkujących - Udemy
+- "Kurs SQL od podstaw" - Udemy
+- "Kurs Git dla początkujących" - Udemy
 - HTML/CSS Marathon - GoIT
  ##### In progress:
-- Kurs Selenium Java od podstaw - Udemy
+- "Kurs Selenium Java od podstaw" - Udemy
 
 ### Books
 - "Pasja testowania" Krzysztof Jadczyk
@@ -28,7 +28,7 @@ aspire to automate tests.
 - Slack
 - Xampp
 - TestLink
-- Screenpresso, Sharex
+- Screenpresso, Sharex, Mobizen
 ##### In progress:
 - IntelliJ IDEA
 - Selenium
@@ -59,11 +59,11 @@ aspire to automate tests.
 ### My projects
 👉 Test cases:
 
-🔗 [FirstExample](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)
+🔗 [TestCasesBasedOnUserStories](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)
 
-🔗 [SecondExample](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)
+🔗 [TestCasesBasedOnExplpratoryTesting](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)
 
-🔗 [ThirdExampleForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
+🔗 [TestCasesBasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
 
 
 👉 Bugs reports:
