@@ -1,6 +1,11 @@
 # This is my Tester - Portfolio
 ### About me
-My name is Jowita Kołucka. I am looking for a job as a software tester. My advantage is the ability to learn quickly, development is my priority. I am self-disciplined and I have good organisational skills. I aspire to automate tests. My interpersonal skills are good.
+My name is Jowita Kołucka. I am looking for a job as Junior Software Tester. My
+advantage is the ability to learn quickly and the willingness to
+develop. I am well-organized, disciplined and responsible. I am
+characterized by attention to detail and quality. I can empathize
+with the end user. Highly developed soft skills characterize me. I
+aspire to automate tests.
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
 - Dare IT Portfolio Challenge: QA Manual Testing
