@@ -15,7 +15,8 @@ aspire to automate tests.
 - "Kurs Git dla początkujących" - Udemy
 - HTML/CSS Marathon - GoIT
  ##### In progress:
-- "Kurs Selenium Java od podstaw" - Udemy
+- "Python 3 od Podstaw do Eksperta" - Udemy
+
 
 ### Books
 - "Pasja testowania" Krzysztof Jadczyk
@@ -32,7 +33,7 @@ aspire to automate tests.
 ##### In progress:
 - IntelliJ IDEA
 - Selenium
-- Java
+- Python
 
 ### Tech skills
 - SQL
