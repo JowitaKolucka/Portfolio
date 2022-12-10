@@ -5,7 +5,9 @@ advantage is the ability to learn quickly and the willingness to
 develop. I am well-organized, disciplined and responsible. I am
 characterized by attention to detail and quality. I can empathize
 with the end user. Highly developed soft skills characterize me. I
-aspire to automate tests.
+aspire to automate tests. Currently, I am working on programming language Python.
+######
+My projects are at the bottom of the portfolio. 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
 - Dare IT Portfolio Challenge: QA Manual Testing
@@ -30,6 +32,9 @@ aspire to automate tests.
 - Xampp
 - TestLink
 - Screenpresso, Sharex, Mobizen
+- Visual Studio Code
+
+
 ##### In progress:
 - IntelliJ IDEA
 - Selenium
@@ -58,20 +63,24 @@ aspire to automate tests.
 :point_right: [LinkedIn](https://www.linkedin.com/in/jowita-ko%C5%82ucka-58208a257/)
 
 ### My projects
+
+####
+Short introduction: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
+
 👉 Test cases:
 
-🔗 [TestCasesBasedOnUserStories](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)
+🔗 [BasedOnUserStories](https://docs.google.com/spreadsheets/d/1WvgNeT7zoMLT_dVXP6OGcbG25ZfNrIn3Qoo_-KSdGgU/edit?usp=sharing)
 
-🔗 [TestCasesBasedOnExplpratoryTesting](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)
+🔗 [BasedOnExplpratoryTesting](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)
 
-🔗 [TestCasesBasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
+🔗 [BasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
 
 
 👉 Bugs reports:
 
-🔗 [FirstExample](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)
+🔗 [ForScoutsPanel](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)
 
-🔗 [ShortBugReport](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)
+🔗 [ShortBugReportForScoutsPanel](https://docs.google.com/document/d/1hhjrp0n0Ihc8Z-Ac1N18rPhC7kWsmeCB4l8BnpVBySc/edit?usp=sharing)
 
 🔗 [ExploratoryTesting:IntellectualTour](https://docs.google.com/spreadsheets/d/1trzIb7EJdjzk6x9bkMN0su0mnncNOVoKCWpnPeS5vZI/edit?usp=sharing)
 
