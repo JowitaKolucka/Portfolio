@@ -6,7 +6,7 @@ develop. I am well-organized, disciplined and responsible. I am
 characterized by attention to detail and quality. I can empathize
 with the end user. Highly developed soft skills characterize me. I
 aspire to automate tests. Currently, I am working on programming language Python.
-######
+
 __My projects are at the bottom of the portfolio. __
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
@@ -64,7 +64,7 @@ __My projects are at the bottom of the portfolio. __
 
 ### My projects
 
-####__Short introduction__: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
+__Short introduction__: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
 
 👉 Test cases:
 
