@@ -7,7 +7,7 @@ characterized by attention to detail and quality. I can empathize
 with the end user. Highly developed soft skills characterize me. I
 aspire to automate tests. Currently, I am working on programming language Python.
 
-__My projects are at the bottom of the portfolio. __
+__My projects are at the bottom of the portfolio.__
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
 - Dare IT Portfolio Challenge: QA Manual Testing
