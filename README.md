@@ -64,6 +64,8 @@ __My projects are at the bottom of the portfolio.__
 
 ### My projects
 
+__For Web applications__
+
 __Short introduction__: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
 
 👉 Test cases:
@@ -72,10 +74,7 @@ __Short introduction__: The project was focused on testing [the website](https:/
 
 🔗 [BasedOnExploratoryTesting](https://docs.google.com/spreadsheets/d/17aXryVwC_KJjK_7fEQuUaFH9VVKCezWeL1D1ATz1mZs/edit?usp=sharing)
 
-🔗 [BasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
-
-
-👉 Bugs reports:
+:point_right: Bugs reports:
 
 🔗 [ForScoutsPanel](https://docs.google.com/spreadsheets/d/19OnQ9t3O9w3JdfsiuvQA0RNu8N6oGHDR3pL6XjfZ5iU/edit?usp=sharing)
 
@@ -83,6 +82,12 @@ __Short introduction__: The project was focused on testing [the website](https:/
 
 🔗 [ExploratoryTesting:IntellectualTour](https://docs.google.com/spreadsheets/d/1trzIb7EJdjzk6x9bkMN0su0mnncNOVoKCWpnPeS5vZI/edit?usp=sharing)
 
+
+__My projects for Mobile Applications__
+:point_right: Test cases:
+🔗 [BasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
+
+👉 Bugs reports:
 :link: [ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)
 
 ### Recommened blogs
