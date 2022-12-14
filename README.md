@@ -84,10 +84,13 @@ __Short introduction__: The project was focused on testing [the website](https:/
 
 
 __My projects for Mobile Applications__
+
 :point_right: Test cases:
+
 🔗 [BasedOnExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1uEOFUuitIedHFeNPdvG4jfgqO08rtomRUYHuNR1Rowo/edit?usp=sharing)
 
 👉 Bugs reports:
+
 :link: [ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)
 
 ### Recommened blogs
