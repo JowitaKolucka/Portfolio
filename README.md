@@ -36,6 +36,7 @@ __My projects are at the bottom of the portfolio.__
 
 
 ##### In progress:
+- PyCharm
 - IntelliJ IDEA
 - Selenium
 - Python
