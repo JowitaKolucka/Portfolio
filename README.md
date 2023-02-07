@@ -7,62 +7,6 @@ characterized by attention to detail and quality. I can empathize
 with the end user. Highly developed soft skills characterize me. I
 aspire to automate tests. Currently, I am working on programming language Python.
 
-__My projects are at the bottom of the portfolio.__
-
-### Courses, Webinars, Meet-ups, Workshops, Seminars
-- Dare IT Portfolio Challenge: QA Manual Testing
-- Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
-- Praktyczny kurs testowania oprogramowania - Udemy 
-- "Kurs SQL od podstaw" - Udemy
-- "Kurs Git dla początkujących" - Udemy
-- HTML/CSS Marathon - GoIT
- ##### In progress:
-- "Python 3 od Podstaw do Eksperta" - Udemy
-
-
-### Books
-- "Pasja testowania" Krzysztof Jadczyk
-- "Certyfikowany tester ISTQB Poziom Podstawowy" Adam Roman, Lucjan Stapp
-- "English 4 IT" Beata Błaszczyk
-
-### Tools
-- Jira
-- GitHub, Git
-- Slack
-- Xampp
-- TestLink
-- Screenpresso, Sharex, Mobizen
-- Visual Studio Code
-
-
-##### In progress:
-- PyCharm
-- IntelliJ IDEA
-- Selenium
-- Python
-
-### Tech skills
-- SQL
-- SCRUM
-- Devtools
-- HTML/CSS - basics
-- Exploratory testing
-- Test Cases excecution
-- Creating Test Cases
-- Bugs reporting
-
-### Soft skills
-- creativity and problem - solving
-- teamwork
-- positive attitiude
-- self-motivation
-- communication
-- empathy
-- commitment
-
-### My LinkedIn profile
-:point_right: [LinkedIn](https://www.linkedin.com/in/jowita-ko%C5%82ucka-58208a257/)
-
 ### My projects
 
 __For Web applications__
@@ -94,6 +38,61 @@ __My projects for Mobile Applications__
 
 :link: [ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)
 
+
+
+### Courses, Webinars, Meet-ups, Workshops, Seminars
+- Dare IT Portfolio Challenge: QA Manual Testing
+- Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
+- Praktyczny kurs testowania oprogramowania - Udemy 
+- "Kurs SQL od podstaw" - Udemy
+- "Kurs Git dla początkujących" - Udemy
+- HTML/CSS Marathon - GoIT
+ ##### In progress:
+- "Python 3 od Podstaw do Eksperta" - Udemy
+
+
+### Books
+- "Pasja testowania" Krzysztof Jadczyk
+- "Certyfikowany tester ISTQB Poziom Podstawowy" Adam Roman, Lucjan Stapp
+- "English 4 IT" Beata Błaszczyk
+
+### Tools
+- Jira
+- GitHub, Git
+- Slack
+- Xampp
+- TestLink
+- Screenpresso, Sharex, Mobizen
+- Visual Studio Code
+
+
+##### In progress:
+- PyCharm
+- Selenium
+- Python
+
+### Tech skills
+- SQL
+- SCRUM
+- Devtools
+- HTML/CSS - basics
+- Exploratory testing
+- Test Cases excecution
+- Creating Test Cases
+- Bugs reporting
+
+### Soft skills
+- creativity and problem - solving
+- teamwork
+- positive attitiude
+- self-motivation
+- communication
+- empathy
+- commitment
+
+### My LinkedIn profile
+:point_right: [LinkedIn](https://www.linkedin.com/in/jowita-ko%C5%82ucka-58208a257/)
+
 ### Recommened blogs
 - guru99.com
 - wyszkolewas.com.pl
@@ -106,6 +105,7 @@ __My projects for Mobile Applications__
 - Tester oprogramowania - wsparcie na starcie
 - Dare IT Community
 - Programuj, dziewczyno!
+- Testuj, dziewczyno!
 
 
 
