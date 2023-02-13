@@ -38,6 +38,8 @@ __My projects for Mobile Applications__
 
 :link: [ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/17WN1m9REmA11eijGD58Y2FtpVVNW4LAXqQRk99-HvD0/edit?usp=sharing)
 
+:link: [SQL](https://docs.google.com/document/d/1QR4bZGDvkVYLLIFqrczHEJUj-JmtupgBUU5wyq-dKJE/edit?usp=sharing)
+
 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
