@@ -42,9 +42,15 @@ __My projects for Mobile Applications__
 
 :link: [SQL](https://docs.google.com/document/d/1QR4bZGDvkVYLLIFqrczHEJUj-JmtupgBUU5wyq-dKJE/edit?usp=sharing)
 
+👉 Bugs reports created at QA Marathon organised by GoIT (PL):
+
+:link: [BasedOnDocumentation](https://docs.google.com/spreadsheets/d/1h7GM_YMJXWmNiqW3DXSuUnqTMgGplSZwSxpjwFfSSTg/edit?usp=sharing)
+:link: [BasedOnMessagesFrom"Clients"](https://docs.google.com/spreadsheets/d/1FYTmW77sD3gYofqM491b2oXS8jvCTrHW3CTZYn0zJzg/edit?usp=sharing)
+
 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
+- QA Marathon - GoIT
 - Dare IT Portfolio Challenge: QA Manual Testing
 - Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
 - Praktyczny kurs testowania oprogramowania - Udemy 
