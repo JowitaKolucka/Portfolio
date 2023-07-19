@@ -5,7 +5,7 @@ advantage is the ability to learn quickly and the willingness to
 develop. I am well-organized, disciplined and responsible. I am
 characterized by attention to detail and quality. I can empathize
 with the end user. Highly developed soft skills characterize me. I
-aspire to automate tests. Currently, I am working on programming language Python.
+aspire to automate tests. Currently, I am Computer Science Student.
 
 ### My projects
 
@@ -57,8 +57,7 @@ __My projects for Mobile Applications__
 - "Kurs SQL od podstaw" - Udemy
 - "Kurs Git dla początkujących" - Udemy
 - HTML/CSS Marathon - GoIT
- ##### In progress:
-- "Python 3 od Podstaw do Eksperta" - Udemy
+
 
 
 ### Books
