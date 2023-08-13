@@ -12,7 +12,10 @@ aspire to automate tests. Currently, I am Computer Science Student.
 __For Web applications__
 
 __Short introduction__: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
+
 ➡️ [AutomationTestsForScoutsPanel](https://github.com/JowitaKolucka/Challenge_portfolio_Jowi)
+
+
 ➡️ [AutomationTestsForScoutsPanelUsingRobotFramework](https://github.com/JowitaKolucka/test_robotframework)
 
 👉 Test cases:
