@@ -1,11 +1,11 @@
 # This is my Tester - Portfolio
 ### About me
-My name is Jowita Kołucka. I am looking for a job as Junior Software Tester. My
-advantage is the ability to learn quickly and the willingness to
-develop. I am well-organized, disciplined and responsible. I am
+My name is Jowita. 
+My advantage is the ability to learn quickly and the willingness to
+develop. I am well-organized, disciplined, and responsible. I am
 characterized by attention to detail and quality. I can empathize
-with the end user. Highly developed soft skills characterize me. I
-aspire to automate tests. Currently, I am Computer Science Student.
+with the end user. Highly developed soft skills describe me. I
+aspire to automate tests. Currently, I am a Computer Science Student and learning Java.
 
 ### My projects
 
@@ -55,6 +55,8 @@ __My projects for Mobile Applications__
 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
+- "Szkolenie dla QA" Adam Gola - in progress
+- Dare IT Portfolio Challenge: Test Automation + Python
 - QA Marathon - GoIT
 - Dare IT Portfolio Challenge: QA Manual Testing
 - Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
@@ -81,6 +83,8 @@ __My projects for Mobile Applications__
 
 
 ##### In progress:
+- IntelliJ Idea
+- Java
 - PyCharm
 - Selenium
 - Python
@@ -91,14 +95,14 @@ __My projects for Mobile Applications__
 - Devtools
 - HTML/CSS - basics
 - Exploratory testing
-- Test Cases excecution
+- Test Cases execution
 - Creating Test Cases
 - Bugs reporting
 
 ### Soft skills
-- creativity and problem - solving
+- Creativity and problem-solving
 - teamwork
-- positive attitiude
+- positive attitude
 - self-motivation
 - communication
 - empathy
