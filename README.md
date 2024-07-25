@@ -6,10 +6,10 @@ I'm a passionate Software Tester dedicated to ensuring the highest quality in so
 
 🔍 What you'll find in my repositories:
 
-Detailed manual testing projects
-Extensive test case documentation
-Various automated test scripts showcasing my ability to integrate automation into testing workflows
-My goal is to continuously learn and contribute to the world of software testing, sharing my knowledge and projects with the community.
+- Detailed manual testing projects
+- Extensive test case documentation
+- Various automated test scripts showcasing my ability to integrate automation into testing workflows
+- My goal is to continuously learn and contribute to the world of software testing, sharing my knowledge and projects with the community.
 
 ### My projects
 
