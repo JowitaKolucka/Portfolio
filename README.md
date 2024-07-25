@@ -1,11 +1,15 @@
 # This is my Tester - Portfolio
 ### About me
-My name is Jowita. 
-My advantage is the ability to learn quickly and the willingness to
-develop. I am well-organized, disciplined, and responsible. I am
-characterized by attention to detail and quality. I can empathize
-with the end user. Highly developed soft skills describe me. I
-aspire to automate tests. Currently, I am a Computer Science Student and learning Java.
+Hi! 👋 Hi, I'm Jowita!
+
+I'm a passionate Software Tester dedicated to ensuring the highest quality in software development. With a strong background in manual testing, I excel in creating comprehensive test cases and meticulously documenting testing processes.
+
+🔍 What you'll find in my repositories:
+
+Detailed manual testing projects
+Extensive test case documentation
+Various automated test scripts showcasing my ability to integrate automation into testing workflows
+My goal is to continuously learn and contribute to the world of software testing, sharing my knowledge and projects with the community.
 
 ### My projects
 
@@ -55,11 +59,10 @@ __My projects for Mobile Applications__
 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
-- "Szkolenie dla QA" Adam Gola - in progress
+- "Szkolenie dla QA" Adam Gola
 - Dare IT Portfolio Challenge: Test Automation + Python
 - QA Marathon - GoIT
 - Dare IT Portfolio Challenge: QA Manual Testing
-- Learn & Chat about Human Machine Interface: Testing - organised by Spyrosoft Synergy
 - Praktyczny kurs testowania oprogramowania - Udemy 
 - "Kurs SQL od podstaw" - Udemy
 - "Kurs Git dla początkujących" - Udemy
@@ -76,17 +79,14 @@ __My projects for Mobile Applications__
 - Jira
 - GitHub, Git
 - Slack
+- XRay
+- Selenium, Intellij, Java
 - Xampp
-- TestLink
-- Screenpresso, Sharex, Mobizen
-- Visual Studio Code
+- Screenpresso
 
 
 ##### In progress:
-- IntelliJ Idea
 - Java
-- PyCharm
-- Selenium
 - Python
 
 ### Tech skills
@@ -98,6 +98,8 @@ __My projects for Mobile Applications__
 - Test Cases execution
 - Creating Test Cases
 - Bugs reporting
+- Java + Selenium - basics
+- Python + Selenium - basics
 
 ### Soft skills
 - Creativity and problem-solving
