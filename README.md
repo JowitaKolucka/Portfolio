@@ -1,6 +1,6 @@
 # This is my Tester - Portfolio
 ### About me
-Hi! 👋 Hi, I'm Jowita!
+👋 Hi, I'm Jowita!
 
 I'm a passionate Software Tester dedicated to ensuring the highest quality in software development. With a strong background in manual testing, I excel in creating comprehensive test cases and meticulously documenting testing processes.
 
