@@ -66,7 +66,6 @@ __My projects for Mobile Applications__
 - Praktyczny kurs testowania oprogramowania - Udemy 
 - "Kurs SQL od podstaw" - Udemy
 - "Kurs Git dla początkujących" - Udemy
-- HTML/CSS Marathon - GoIT
 
 
 
