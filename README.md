@@ -2,7 +2,7 @@
 ### About me
 👋 Hi, I'm Jowita!
 
-I'm a passionate Software Tester dedicated to ensuring the highest quality in software development. With a strong background in manual testing, I excel in creating comprehensive test cases and meticulously documenting testing processes.
+I'm a software tester with nearly 2 years of hands-on experience. I take a holistic approach to quality assurance, with a strong interest in accessibility, security, and automated testing using Playwright. I'm passionate about building inclusive and reliable digital experiences — testing is not just about finding bugs, it's about understanding the user.
 
 🔍 What you'll find in my repositories:
 
@@ -59,7 +59,9 @@ __My projects for Mobile Applications__
 
 
 ### Courses, Webinars, Meet-ups, Workshops, Seminars
-- "Szkolenie dla QA" Adam Gola
+- "Testy automatyczne w Playwright" - jaktestowac.pl
+- "Dostępność" - altedu
+- "Szkolenie dla QA" - altedu
 - Dare IT Portfolio Challenge: Test Automation + Python
 - QA Marathon - GoIT
 - Dare IT Portfolio Challenge: QA Manual Testing
@@ -82,11 +84,9 @@ __My projects for Mobile Applications__
 - Selenium, Intellij, Java
 - Xampp
 - Screenpresso
+- Graylog
+  
 
-
-##### In progress:
-- Java
-- Python
 
 ### Tech skills
 - SQL
@@ -99,7 +99,8 @@ __My projects for Mobile Applications__
 - Bugs reporting
 - Java + Selenium - basics
 - Python + Selenium - basics
-
+- Playwright + TS
+- 
 ### Soft skills
 - Creativity and problem-solving
 - teamwork
