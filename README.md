@@ -14,6 +14,9 @@ I'm a software tester with nearly 2 years of hands-on experience. I take a holis
 ### My projects
 
 __For Web applications__
+__Short introduction__: Automation tests for [the website](https://automationexercise.com/), using Playwright and TS, based on exploratory testing. 
+
+➡️ [Playwright tests](https://github.com/JowitaKolucka/Playwright-test)
 
 __Short introduction__: The project was focused on testing [the website](https://scouts.futbolkolektyw.pl/), mainly based on exploratory testing and user stories.
 
