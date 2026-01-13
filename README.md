@@ -2,7 +2,7 @@
 ### About me
 👋 Hi, I'm Jowita!
 
-I'm a software tester with nearly 2 years of hands-on experience. I take a holistic approach to quality assurance, with a strong interest in accessibility, security, and automated testing using Playwright. I'm passionate about building inclusive and reliable digital experiences — testing is not just about finding bugs, it's about understanding the user.
+I'm a software tester with over 2 years of hands-on experience. I take a holistic approach to quality assurance, with a strong interest in accessibility, security, and automated testing using Playwright and Selenium. I'm passionate about building inclusive and reliable digital experiences - testing is not just about finding bugs, it's about understanding the user.
 
 🔍 What you'll find in my repositories:
 
@@ -65,6 +65,7 @@ __My projects for Mobile Applications__
 - "Testy automatyczne w Playwright" - jaktestowac.pl
 - "Dostępność" - altedu
 - "Szkolenie dla QA" - altedu
+- "Testowanie bezpieczeństwa dla QA i Testerów" - altedu
 - Dare IT Portfolio Challenge: Test Automation + Python
 - QA Marathon - GoIT
 - Dare IT Portfolio Challenge: QA Manual Testing
@@ -80,10 +81,10 @@ __My projects for Mobile Applications__
 - "English 4 IT" Beata Błaszczyk
 
 ### Tools
-- Jira
+- Jira, Confluence
 - GitHub, Git
-- Slack
-- XRay
+- Slack, Teams
+- XRay, Zephyr
 - Selenium, Intellij, Java
 - Xampp
 - Screenpresso
@@ -103,7 +104,8 @@ __My projects for Mobile Applications__
 - Java + Selenium - basics
 - Python + Selenium - basics
 - Playwright + TS
-- 
+- Mobile testing (on physical device and Perfecto)
+  
 ### Soft skills
 - Creativity and problem-solving
 - teamwork
